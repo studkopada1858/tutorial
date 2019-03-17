@@ -43,7 +43,7 @@ Linux: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Verwenden Sie am besten den Paketman
 
 ## Einen Fork erstellen
 
-- Öffnen Sie die Webseite des Repository https://github.com/hsro-wif-prg2/tutorial, und loggen Sie sich ein.
+- Öffnen Sie die Webseite des Repository https://github.com/hsro-wif-oop/tutorial, und loggen Sie sich ein.
 - Klicken Sie rechts oben auf die Schaltfläche "Fork", um einen privaten Fork zu erstellen.
 
 
@@ -51,7 +51,7 @@ Linux: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Verwenden Sie am besten den Paketman
 
 - Starten Sie IntelliJ; sollten Sie noch ein Projekt geöffnet haben, so schließen Sie es bitte.
 - Klicken Sie "Checkout from Version Control" und dann "Git".
-- Geben Sie die Adresse **Ihres** forks an, z.B. https://github.com/sikoried/tutorial (Hinweis: Die URL muss Ihren Accountnamen enthalten!)
+- Geben Sie die Adresse **Ihres** forks an, z.B. https://github.com/maxmustermann/tutorial (Hinweis: Die URL muss Ihren Accountnamen enthalten!)
 - Wählen Sie "Ja" bzw. "Yes" um eine IDEA Struktur anzulegen.
 - Wählen Sie im nächsten Fenster ("Import Project") die Option "Import project from external model" sowie "Gradle".
 - Übernehmen Sie im nächsten Fenster alle Standardeinstellungen.
